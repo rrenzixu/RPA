@@ -55,3 +55,5 @@
 
 # 附注
 [我的测试图片](https://github.com/rrenzixu/RPA/raw/master/9003-%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.jpg)
+
+![我的图片](https://github.com/rrenzixu/RPA/raw/master/9003-%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.jpg)
