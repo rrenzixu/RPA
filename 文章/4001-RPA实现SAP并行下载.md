@@ -30,10 +30,10 @@
 
 ## 2.4. 理想和现实
 理想的预期是这样的：
-
+![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/4001-02.jpg)
 
 现实能够实现是这样的：
- 
+![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/4001-03.jpg)
 
 “理想”和“现实”的差异就在于本来能够节省的两次“导出结果”操作的时间没有能够被有效节省。
 
