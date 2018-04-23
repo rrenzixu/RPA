@@ -119,7 +119,7 @@
 （rrenzixu@126.com）。
 
 识别以下二维码，可以关注本公众号。
-
+![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/9002-%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 
 ## 附4. 关于本文作者
@@ -127,3 +127,4 @@
 微信号：rrenzixu
 
 识别以下二维码，可以与作者进行更为深入的交流。
+![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/9001-%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
