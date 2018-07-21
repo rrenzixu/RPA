@@ -1,4 +1,12 @@
-# 1. 原创RPA文章列表
+# 1. 关于作者
+本文作者：任子旭 Zack Ren
+微信号：rrenzixu
+
+识别以下二维码，可以与作者进行更为深入的交流。
+
+![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/9001-%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+
+# 2. 原创RPA文章列表
 
 [1001-什么是RPA？(上)](http://mp.weixin.qq.com/s?__biz=MzU3MDM0Mjg3OA==&mid=2247483663&idx=1&sn=6bc97a8abefc71aab1ef4da65823536e&chksm=fcf1adbecb8624a834b7411eeb7d346fa3349f23b6c63902ed8c499325646a15a3c2131d9b78&scene=21#wechat_redirect)
 
@@ -30,7 +38,7 @@
 
 [8001-BPC和季度预算](https://mp.weixin.qq.com/s/viwSX8pvLktukyIXUOl_uA)
 
-# 2. 关于微信公众号
+# 3. 关于微信公众号
 **微信公众号ID：RPA2018**
 
 微信公众号名称：RPA流程自动化机器人
@@ -46,10 +54,3 @@
 
 ![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/9002-%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
-# 3. 关于本文作者
-本文作者：任子旭 Zack Ren
-微信号：rrenzixu
-
-识别以下二维码，可以与作者进行更为深入的交流。
-
-![](https://github.com/rrenzixu/RPA/raw/master/%E5%9B%BE%E7%89%87%E5%BA%93/9001-%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
